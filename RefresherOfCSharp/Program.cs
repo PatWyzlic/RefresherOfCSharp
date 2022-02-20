@@ -11,8 +11,8 @@ namespace RefresherOfCSharp
              * ForLoops forLoops = new ForLoops();
              * Arrays arrays = new Arrays(); 
              * InputArray inputArray = new InputArray();
+             * SimpleSort simpleSort = new SimpleSort();
              */
-            SimpleSort simpleSort = new SimpleSort();
         }
 
     }
