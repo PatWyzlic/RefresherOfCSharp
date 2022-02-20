@@ -4,6 +4,7 @@ namespace RefresherOfCSharp
 {
     class Program
     {
+        //Main class to run all files
         static void Main(string[] args)
         {
             /* For ForLoops.cs file
