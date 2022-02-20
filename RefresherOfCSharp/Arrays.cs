@@ -9,6 +9,7 @@ namespace RefresherOfCSharp
             int[] grades = { 90, 50, 100, 67 };
             Console.WriteLine(grades[3]);
         }
+        
 
     }
 
